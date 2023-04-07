@@ -1,0 +1,41 @@
+body
+{
+    background-color: azure;
+    color: black;
+}
+table
+{
+    border-radius: 3px;
+}
+.x:hover
+{
+    background-color: blue;
+}
+.y:hover
+{
+    background-color: brown;
+}
+.z:hover
+{
+    background-color: rgb(165, 42, 110);
+}
+.b:hover
+{
+    background-color: rgb(215, 144, 29);
+}
+.c:hover
+{
+    background-color: rgb(182, 23, 23);
+}
+.d:hover
+{
+    background-color: rgb(42, 165, 67);
+}
+.e:hover
+{
+    background-color: rgb(24, 212, 215);
+}
+.f:hover
+{
+    background-color: rgb(80, 16, 218);
+}
